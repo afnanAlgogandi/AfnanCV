@@ -25,3 +25,7 @@ AfnanCV is an image-processing interface that allows users to edit and modify im
 2. Click the "Select Photo" button to choose an image.
 3. Use the buttons on the left to apply different image processing functions.
 4. Click the "Save" button to save the modified image.
+
+
+![Alt Text](welcome.jpg)
+![Alt Text](userInterface.jpg)
